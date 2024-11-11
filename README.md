@@ -73,8 +73,8 @@ Para executar o Pong2, siga estas etapas:
     jhrvo@cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/"></a> -
-    @cesar.school 📩
+    <a href="https://github.com/georgenetoo"></a> -
+    gaan@cesar.school 📩
   </li>
   <li>
     <a href="https://github.com/"></a> -
@@ -93,8 +93,8 @@ Para executar o Pong2, siga estas etapas:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/">
-        <img src="https://avatars.githubusercontent.com/" width="100px;" alt="Foto de "/><br>
+      <a href="https://github.com/georgenetoo">
+        <img src="https://avatars.githubusercontent.com/georgenetoo" width="100px;" alt="Foto de George"/><br>
         <sub>
           <b></b>
         </sub>
