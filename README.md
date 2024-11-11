@@ -69,16 +69,16 @@ Para executar o Pong2, siga estas etapas:
 
 <ul>
   <li>
-    <a href="https://github.com/Thomazrlima">Thomaz Lima</a> -
-    trl@cesar.school 📩
+    <a href="https://github.com/jhrvo0">João Henrique R. V. de Oliveira</a> -
+    jhrvo@cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/hsspedro">Pedro Henrique Silva</a> -
-    phss@cesar.school 📩
+    <a href="https://github.com/"></a> -
+    @cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/Sofia-Saraiva">Sofia Saraiva</a> -
-    spscl@cesar.school 📩
+    <a href="https://github.com/"></a> -
+    @cesar.school 📩
   </li>
 </ul>
 
@@ -86,7 +86,7 @@ Para executar o Pong2, siga estas etapas:
   <tr>
     <td align="center">
       <a href="https://github.com/jhrvo0">
-        <img src="https://avatars3.githubusercontent.com/jhrvo0" width="100px;" alt="Foto de Thomaz"/><br>
+        <img src="https://avatars3.githubusercontent.com/jhrvo0" width="100px;" alt="Foto de João"/><br>
         <sub>
           <b>João Henrique R. V. de Oliveira</b>
         </sub>
@@ -94,7 +94,7 @@ Para executar o Pong2, siga estas etapas:
     </td>
     <td align="center">
       <a href="https://github.com/">
-        <img src="https://avatars.githubusercontent.com/" width="100px;" alt="Foto de Pedro"/><br>
+        <img src="https://avatars.githubusercontent.com/" width="100px;" alt="Foto de "/><br>
         <sub>
           <b></b>
         </sub>
@@ -102,7 +102,7 @@ Para executar o Pong2, siga estas etapas:
     </td>
     <td align="center">
       <a href="https://github.com/">
-        <img src="https://avatars.githubusercontent.com/" width="100px;" alt="Foto de Sofia"/><br>
+        <img src="https://avatars.githubusercontent.com/" width="100px;" alt="Foto de "/><br>
         <sub>
           <b></b>
         </sub>
