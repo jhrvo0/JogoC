@@ -77,8 +77,8 @@ Para executar o Pong2, siga estas etapas:
     gaan@cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/"></a> -
-    @cesar.school 📩
+    <a href="https://github.com/Caio-Almeida-A"></a> -
+    caa@cesar.school 📩
   </li>
 </ul>
 
@@ -96,15 +96,15 @@ Para executar o Pong2, siga estas etapas:
       <a href="https://github.com/georgenetoo">
         <img src="https://avatars.githubusercontent.com/georgenetoo" width="100px;" alt="Foto de George"/><br>
         <sub>
-          <b></b>
+          <b>George Almerio A. Neto</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/">
-        <img src="https://avatars.githubusercontent.com/" width="100px;" alt="Foto de "/><br>
+      <a href="https://github.com/Caio-Almeida-A">
+        <img src="https://avatars.githubusercontent.com/Caio-Almeida-A" width="100px;" alt="Foto de "/><br>
         <sub>
-          <b></b>
+          <b>Caio Almeida Amaral</b>
         </sub>
       </a>
     </td>
