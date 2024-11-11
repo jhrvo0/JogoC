@@ -73,11 +73,11 @@ Para executar o Pong2, siga estas etapas:
     jhrvo@cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/georgenetoo"></a> -
+    <a href="https://github.com/georgenetoo">George Almerio A. Neto</a> -
     gaan@cesar.school 📩
   </li>
   <li>
-    <a href="https://github.com/Caio-Almeida-A"></a> -
+    <a href="https://github.com/Caio-Almeida-A">Caio Almeida Amaral</a> -
     caa@cesar.school 📩
   </li>
 </ul>
