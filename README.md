@@ -56,7 +56,7 @@ Para executar o cobrita, faça essas etapas:
 1. Baixe o Visual Studio:
    `https://visualstudio.microsoft.com/pt-br/`
 
-1.1 Após baixar e executar a primeira vez, selecione o pacote de jogos C
+    1.1 Após baixar e executar a primeira vez, selecione o pacote de jogos C
 
 3. Baixe o MinGW e configurar o PATH:
    `https://sourceforge.net/projects/mingw-w64/`
