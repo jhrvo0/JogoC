@@ -55,14 +55,22 @@ Para executar o cobrita, faça essas etapas:
 
 1. Baixe o Visual Studio:
    `https://visualstudio.microsoft.com/pt-br/`
+  1.1 Após baixar e executar a primeira vez, selecione o pacote de jogos C
 
 2. Baixe o MinGW e configurar o PATH:
    `https://sourceforge.net/projects/mingw-w64/`
+  2.1 Editar as variaveis de ambiente do sistema
+  2.2 Clicar em Variáveis de ambiente 
+  2.3 Adicionar um path em Variáveis de sistema
 
 4. Baixar o Quickstart raylib:
    `https://github.com/raylib-extras/raylib-quickstart`
+  4.1 Clicar em BuildMinGW.bat (Após já ter feito tudo anteriormente ele instalará o raylib)
+  4.2 Clicar em VisualStudio2022.bat
+  4.3 Caso tudo tenha sido feito correto, um arquivo .sln irá aparecer
+  4.4 Após você ser levado Visual studio insira o código do jogo  
 
-5. Divirta-se jogando Pong2 com seus amigos!
+Após isso, divirta-se jogando o Cobrita e disputando a pontuação no seu computador local!
 
 ## 👩‍💻 Membros
 
