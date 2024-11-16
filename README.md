@@ -1,26 +1,3 @@
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Status-Em%20desenvolvimento-green?style=flat-square"
-    alt="Status"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/github/repo-size/Sofia-Saraiva/Semester3-CESAR-School?style=flat"
-    alt="Repository Size"
-  />
-  
-  <img
-    src="https://img.shields.io/github/commit-activity/t/Sofia-Saraiva/Semester3-CESAR-School?style=flat&logo=github"
-    alt="Commit Activity"
-  />
-  <a href="LICENSE.md"
-    ><img
-      src="https://img.shields.io/github/license/Sofia-Saraiva/Semester3-CESAR-School"
-      alt="License"
-  /></a>
-</p>
 
 ## 🖥️ Cobrita
 
