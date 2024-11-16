@@ -25,11 +25,11 @@
   /></a>
 </p>
 
-## 🖥️ XYZ
+## 🖥️ Cobrita
 
 ## 📄 Descrição
 
-Esse é o jogo cobrita, que seu intuito inicial era de ser um gato que cresceria não apenas em comprimento mas também em largura, a vista é basea-se de cima.
+Esse é o jogo cobrita, que seu intuito inicial era de ser um gato que cresceria não apenas em comprimento mas também em largura, a vista é basea-se de cima e um dos primeiros projetos utilizando linguagem C.
 
 ## 🎲 Objetivo do Jogo
 
@@ -54,13 +54,13 @@ O seu personagem apesar de ficar em um mapa cada vez maior, sua velocidade ainda
 Para executar o cobrita, faça essas etapas:
 
 1. Baixe o Visual Studio:
-   `Lorem Ipsum has been the industry's standard`
+   `https://visualstudio.microsoft.com/pt-br/`
 
 2. Baixe o MinGW e configurar o PATH:
-   `Lorem Ipsum has been the industry's standard`
+   `https://sourceforge.net/projects/mingw-w64/`
 
 4. Baixar o Quickstart raylib:
-   `Lorem Ipsum has been the industry's standardn`
+   `https://github.com/raylib-extras/raylib-quickstart`
 
 5. Divirta-se jogando Pong2 com seus amigos!
 
@@ -110,6 +110,6 @@ Para executar o cobrita, faça essas etapas:
   </tr>
 </table>
 
-## Licença
 
-Lorem Ipsum has been the industry's standard
+
+
