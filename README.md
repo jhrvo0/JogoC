@@ -29,38 +29,37 @@
 
 ## 📄 Descrição
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Esse é o jogo cobrita, que seu intuito inicial era de ser um gato que cresceria não apenas em comprimento mas também em largura, a vista é basea-se de cima.
 
 ## 🎲 Objetivo do Jogo
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Seu personagem cresçe conforme você aumenta pontos, tente alcançar a maior quantidade possível.
 
-### ⚾ Múltiplas Bolas:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+### ⚾ Múltiplos Obstáculos:
+Conforme o jogo avança, mais obstáculos aparecerão para te impedir, alguns podem aparecer bem subitamente, tente evitar-los ao máximo enquanto coleta pontos e não dê de cara com as bordas do mapa.
 
 ### 👾 Pontuação Duplicada:
-Lorem Ipsum has been the industry's standard
+Seu score está localizado no canto superior direito e aumenta em 10 a cada quadrado azul coletado
 
-### ⚡️ Alta Velocidade:
-Lorem Ipsum has been the industry's standard
+### ⚡️ Alta Velocidade e escalabilidade do mapa:
+O seu personagem apesar de ficar em um mapa cada vez maior, sua velocidade ainda o torna desafiamente junto dos obstáculos presentes.
 
 ## 🕹️ Como Jogar
 
-- Use as teclas de seta ou as teclas "w" e "s" para controlar a raquete no lado esquerdo da tela e "i" e "k" para controlar a raquete no lado direito da tela.
-- Certifique-se de manter o caps lock desativado.
-- Mantenha suas raquetes em movimento para acertar as bolas e marcar pontos.
+- Use as teclas de seta ou as teclas "w","a","s" e "d" para movimentar seu personagem ou as setas do seu computador
+- Pause o jogo apertando a tecla "p"
 
 ## ♟️ Executando o Jogo
 
-Para executar o Pong2, siga estas etapas:
+Para executar o cobrita, faça essas etapas:
 
-1. Clone este repositório em sua máquina:
+1. Baixe o Visual Studio:
    `Lorem Ipsum has been the industry's standard`
 
-3. Compile o programa:
+2. Baixe o MinGW e configurar o PATH:
    `Lorem Ipsum has been the industry's standard`
 
-4. Rode o programa:
+4. Baixar o Quickstart raylib:
    `Lorem Ipsum has been the industry's standardn`
 
 5. Divirta-se jogando Pong2 com seus amigos!
