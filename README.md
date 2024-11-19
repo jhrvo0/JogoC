@@ -1,9 +1,9 @@
 
-## 🖥️ Cobrita
+## 🖥️ Formigita
 
 ## 📄 Descrição
 
-Esse é o jogo cobrita, que seu intuito inicial era de ser um gato que cresceria não apenas em comprimento mas também em largura, a vista é basea-se de cima e um dos primeiros projetos utilizando linguagem C.
+Esse é o jogo formigita, que seu intuito inicial era de ser um gato que cresceria não apenas em comprimento mas também em largura, a vista é basea-se de cima e um dos primeiros projetos utilizando linguagem C.
 
 ## 🎲 Objetivo do Jogo
 
@@ -22,10 +22,11 @@ O seu personagem apesar de ficar em um mapa cada vez maior, sua velocidade ainda
 
 - Use as teclas de seta ou as teclas "w","a","s" e "d" para movimentar seu personagem ou as setas do seu computador
 - Pause o jogo apertando a tecla "p"
+- Clique em "Esc" para fechar o jogo a qualquer momento
 
 ## ♟️ Executando o Jogo
 
-Para executar o cobrita, faça essas etapas:
+Para executar o formigita, faça essas etapas:
 
 1. Baixe o Visual Studio:
    `https://visualstudio.microsoft.com/pt-br/`
@@ -52,7 +53,7 @@ Para executar o cobrita, faça essas etapas:
    
     4.4 Após você ser levado Visual studio insira o código do jogo  
 
-Após isso, divirta-se jogando o Cobrita e disputando a pontuação no seu computador local!
+Após isso, divirta-se jogando o Formigita e disputando a pontuação no seu computador local!
 
 ## 👩‍💻 Membros
 
