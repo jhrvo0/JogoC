@@ -33,7 +33,7 @@ Para executar o formigita, faça essas etapas:
 
     1.1 Após baixar e executar a primeira vez, selecione o pacote de jogos C
 
-3. Baixe o MinGW e configurar o PATH:
+2. Baixe o MinGW e configurar o PATH:
    `https://sourceforge.net/projects/mingw-w64/`
 
     2.1 Editar as variaveis de ambiente do sistema
@@ -51,7 +51,9 @@ Para executar o formigita, faça essas etapas:
    
     3.3 Caso tudo tenha sido feito correto, um arquivo .sln irá aparecer
    
-    3.4 Após você ser levado Visual studio insira o código do jogo  
+    3.4 Após você ser levado Visual studio insira o código do jogo
+
+4. Insira o código desse repositório no main.c do projeto criado
 
 Após isso, divirta-se jogando o Formigita e disputando a pontuação no seu computador local!
 
