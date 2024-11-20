@@ -45,9 +45,9 @@ Para executar o formigita, faça essas etapas:
 5. Baixar o Quickstart raylib:
    `https://github.com/raylib-extras/raylib-quickstart`
    
-    4.1 Clicar em BuildMinGW.bat (Após já ter feito tudo anteriormente ele instalará o raylib)
+    3.1 Clicar em BuildMinGW.bat (Após já ter feito tudo anteriormente ele instalará o raylib)
    
-    4.2 Clicar em VisualStudio2022.bat
+    5.2 Clicar em VisualStudio2022.bat
    
     4.3 Caso tudo tenha sido feito correto, um arquivo .sln irá aparecer
    
