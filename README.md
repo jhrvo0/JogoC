@@ -42,16 +42,16 @@ Para executar o formigita, faça essas etapas:
    
     2.3 Adicionar um path em Variáveis de sistema
 
-5. Baixar o Quickstart raylib:
+3. Baixar o Quickstart raylib:
    `https://github.com/raylib-extras/raylib-quickstart`
    
     3.1 Clicar em BuildMinGW.bat (Após já ter feito tudo anteriormente ele instalará o raylib)
    
-    5.2 Clicar em VisualStudio2022.bat
+    3.2 Clicar em VisualStudio2022.bat
    
-    4.3 Caso tudo tenha sido feito correto, um arquivo .sln irá aparecer
+    3.3 Caso tudo tenha sido feito correto, um arquivo .sln irá aparecer
    
-    4.4 Após você ser levado Visual studio insira o código do jogo  
+    3.4 Após você ser levado Visual studio insira o código do jogo  
 
 Após isso, divirta-se jogando o Formigita e disputando a pontuação no seu computador local!
 
